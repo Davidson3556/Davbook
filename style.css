@@ -690,7 +690,7 @@ nav{
 
 /*-------- media query for home page --------------*/
 
-@media (max-width: 900px){
+@media (max-width:900px){
     .right-sidebar{
         display: none;
     }
@@ -704,7 +704,7 @@ nav{
         display: none;
      }
      .logo{
-        width: 90px;
+        width: 110px;
         margin-right: 20px;
      }
      .nav-user-ul li img{
